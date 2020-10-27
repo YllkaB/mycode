@@ -1,4 +1,4 @@
-# mycode (Project Title)
+# mycode
 
 Learning about Python and Ansible code!
         
